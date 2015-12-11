@@ -21,4 +21,16 @@
  
  */
 
+- (NSString *)badgeForSpeaker:(NSString *)speaker {
+    return nil;
+}
+
+- (NSArray *)badgeForSpeakers:(NSArray *)speakers {
+    return nil;
+}
+
+- (NSArray *)greetingsAndRoomAssignmentsForSpeakers:(NSArray *)speakers {
+    return nil;
+}
+
 @end
